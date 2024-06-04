@@ -6,8 +6,8 @@ subtitle: <a href='https://upb.ro/en/'>Faculty of Energy Engineering/DPUE</a>.
 description: Full Professor in Reliability, POLITEHNICA Bucharest National University of Science and Technology, Romania
 profile:
   align: right
-  image: paululmeanu.png
-  image_circular:false # (normal: false) crops the image to make it circular
+  image: prof_pic.png
+  image_circular:true # (normal: false) crops the image to make it circular
   
 
 news: false # includes a list of news items
